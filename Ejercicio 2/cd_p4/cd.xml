@@ -1,0 +1,104 @@
+<?xml-stylesheet href="cd_p4.xsl" type="text/xsl"?>
+
+
+<CDs>
+
+<cd ID = "1">
+    <tituloAlbum>40 años son pocos</tituloAlbum>
+    <Artista>Bertín Osborne</Artista>
+    <tituloTiempo>59:59</tituloTiempo>
+    <selloDiscografico>Universal</selloDiscografico>
+    <añoPublicacion>2021</añoPublicacion>
+</cd>
+
+
+
+<cd ID = "2">
+    <tituloAlbum>Donde quiero estar</tituloAlbum>
+    <Artista>Quevedo</Artista>
+    <tituloTiempo>47:42</tituloTiempo>
+    <selloDiscografico>Taste The Floor Records</selloDiscografico>
+    <añoPublicacion>2023</añoPublicacion>
+</cd>
+
+
+
+ <cd ID = "3">
+    <tituloAlbum>Un verano sin ti</tituloAlbum>
+    <Artista>Bad Bunny</Artista>
+    <tituloTiempo>81:53</tituloTiempo>
+    <selloDiscografico>Rimas Music</selloDiscografico>
+    <añoPublicacion>2022</añoPublicacion>
+</cd>
+
+
+
+
+<cd ID = "4">
+    <tituloAlbum>Dance Forever</tituloAlbum>
+    <Artista>Florence and the Machine</Artista>
+    <tituloTiempo></tituloTiempo>
+    <selloDiscografico>EMI Gold</selloDiscografico>
+    <añoPublicacion>2022</añoPublicacion>
+</cd>
+
+
+
+<cd ID = "5">
+    <tituloAlbum>Don't Go Yet</tituloAlbum>
+    <Artista>Camila Cabello</Artista>
+    <tituloTiempo>2:44</tituloTiempo>
+    <selloDiscografico>Epic Records</selloDiscografico>
+    <añoPublicacion>2021</añoPublicacion>
+</cd>
+
+
+
+<cd ID = "6">
+    <tituloAlbum>El mal querer</tituloAlbum>
+    <Artista>Rosalia</Artista>
+    <tituloTiempo>30:18</tituloTiempo>
+    <selloDiscografico>Sony Music</selloDiscografico>
+    <añoPublicacion>2018</añoPublicacion>
+</cd>
+
+
+
+<cd ID = "7">
+    <tituloAlbum>Limones de Oro</tituloAlbum>
+    <Artista>Izaro</Artista>
+    <tituloTiempo>27:33</tituloTiempo>
+    <selloDiscografico>Altafonte</selloDiscografico>
+    <añoPublicacion>2022</añoPublicacion>
+</cd>
+
+
+
+
+<cd ID = "8">
+    <tituloAlbum>Sobredosis de Amor</tituloAlbum>
+    <Artista>Cupido</Artista>
+    <tituloTiempo>2:44</tituloTiempo>
+    <selloDiscografico>Universal Music Spain S.L</selloDiscografico>
+    <añoPublicacion>2022</añoPublicacion>
+</cd>
+
+
+<cd ID = "9">
+    <tituloAlbum>Midnights</tituloAlbum>
+    <Artista>Taylor Swift</Artista>
+    <tituloTiempo>69:20</tituloTiempo>
+    <selloDiscografico>Repulic Records</selloDiscografico>
+    <añoPublicacion>2022</añoPublicacion>
+</cd>
+
+
+<cd ID = "10">
+    <tituloAlbum>Back in Black</tituloAlbum>
+    <Artista>AC/DC</Artista>
+    <tituloTiempo>4:15</tituloTiempo>
+    <selloDiscografico>Sony Music</selloDiscografico>
+    <añoPublicacion>1980</añoPublicacion>
+</cd>
+
+</CDs>
