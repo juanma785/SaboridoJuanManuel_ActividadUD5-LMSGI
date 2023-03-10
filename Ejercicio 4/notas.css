@@ -1,0 +1,23 @@
+
+<style>
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+th{
+  text-align: center;
+  border: 1px solid #00cc00;
+  padding: 8px;
+}
+th {
+  background-color: #ffff00;
+  color: #66ffff;
+}
+#tabla-contenido {
+  position: center;
+  top: 50%;
+  left: 50%;
+}
+</style>
